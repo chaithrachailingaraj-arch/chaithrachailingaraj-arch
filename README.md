@@ -1,204 +1,231 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================================================== -->
+<!--           CHAITHRA | DIGITAL SPACE PORTFOLIO          -->
+<!-- ===================================================== -->
 
-<h1 align="center">
-  Hi 👋, I'm Chaithra
-</h1>
+<div align="center">
 
-<h3 align="center">
-  💻 Aspiring Full Stack Developer | 🐍 Python & DSA Learner | 🤖 Exploring AI
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:4F46E5,50:7C3AED,100:06B6D4&height=250&section=header&text=Chaithra&fontSize=75&fontColor=FFFFFF&animation=fadeIn&desc=Developer%20in%20Progress%20%E2%9C%A8&descSize=22&descAlignY=68"/>
 
-<!-- Typing Animation -->
+</div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;Learning+Python+%26+Data+Structures;Building+Projects+and+Learning+Every+Day!" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaithrachailingaraj-arch&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Hello%2C+World!+I'm+Chaithra+%F0%9F%91%8B;Learning.+Building.+Growing.+%F0%9F%9A%80;Python+%7C+DSA+%7C+Web+Development;Turning+Ideas+Into+Projects+%E2%9C%A8"/>
 
----
+</div>
 
-<!-- ===================== ABOUT ME ===================== -->
+<br/>
 
-## 👩‍💻 About Me
+<div align="center">
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://komarev.com/ghpvc/?username=chaithrachailingaraj-arch&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
 
-- 🔭 Currently working on **Python Projects**
-- 🌱 Currently learning **Python with DSA**
-- 🌐 Exploring **Full Stack Web Development**
-- 🤖 Learning and experimenting with **AI Tools**
-- 👯 Looking to collaborate on **Python Projects**
-- 💬 Ask me about **Python, HTML, CSS, JavaScript & Web Development**
-- 🎯 Goal: **Become a skilled Full Stack Developer**
-- 📫 Reach me at **chaithrachailingaraj@gmail.com**
-
-<br clear="both">
-
----
-
-<!-- ===================== CONNECT ===================== -->
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/chaithra">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<a href="https://github.com/chaithrachailingaraj-arch">
+<img src="https://img.shields.io/github/followers/chaithrachailingaraj-arch?label=Followers&style=flat-square&color=06B6D4"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://instagram.com/lingarajurathnamma">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:chaithrachailingaraj@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-</p>
+</div>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+## 👋 About Me
 
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,tailwind,git,github,vscode&perline=9" />
-
-</p>
+```javascript
+const chaithra = {
+    location: "India 🇮🇳",
+    
+    role: "Aspiring Full Stack Developer",
+    
+    currentlyLearning: [
+        "Python 🐍",
+        "Data Structures & Algorithms 🧩",
+        "Web Development 🌐"
+    ],
+    
+    exploring: [
+        "Artificial Intelligence 🤖",
+        "AI Tools ⚡"
+    ],
+    
+    mindset: "Learn something new every day 🚀"
+};
+```
 
 ---
 
-<!-- ===================== CURRENT PROJECTS ===================== -->
+## ⚡ Current Focus
 
-# 🚀 My Projects
+<div align="center">
+
+| 🔭 Currently Working On | 🌱 Currently Learning | 👯 Looking to Collaborate |
+|---|---|---|
+| Python Projects 🐍 | Python with DSA 🧩 | Python Projects 🐍 |
+| Portfolio Projects 🌐 | Web Development | Learning by Building 🚀 |
+
+</div>
+
+---
+
+# 🛠️ Languages and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,git,github,vscode,tailwind"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
 
 ### 🐍 Simple Python Projects
 
-🔗 **Repository:**
+<br/>
 
-👉 https://github.com/chaithrachailingaraj-arch/Simple_Python_Projects
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
 
----
+<br/><br/>
+
+Learning Python by building simple and useful projects.
+
+<br/><br/>
+
+<a href="https://github.com/chaithrachailingaraj-arch/Simple_Python_Projects">
+
+<img src="https://img.shields.io/badge/Explore_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
 
 ### 🌐 Portfolio Website
 
-🔗 **Repository:**
+<br/>
 
-👉 https://github.com/chaithrachailingaraj-arch/my-portfolio-website
+<img src="https://skillicons.dev/icons?i=html,css,javascript" height="55"/>
 
----
+<br/><br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
+My personal portfolio website showcasing my projects and learning journey.
 
-# 📊 GitHub Statistics
+<br/><br/>
 
-<p align="center">
+<a href="https://github.com/chaithrachailingaraj-arch/my-portfolio-website">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaithrachailingaraj-arch&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/View_Project-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithrachailingaraj-arch&theme=tokyonight&hide_border=true" />
+</a>
 
-</p>
+</td>
 
----
+</tr>
 
-# 💻 Most Used Languages
+</table>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithrachailingaraj-arch&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+</div>
 
 ---
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
+# 🎯 Learning Goals
 
-# 📈 Contribution Activity
+```text
+☑ Learn Python Fundamentals
 
-<p align="center">
+☑ Build Simple Python Projects
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaithrachailingaraj-arch&theme=tokyo-night&hide_border=true" />
+☑ Learn Git & GitHub
 
-</p>
+◉ Practice Data Structures & Algorithms
 
----
+◉ Improve Web Development Skills
 
-<!-- ===================== TROPHIES ===================== -->
+○ Learn Advanced Python
 
-# 🏆 GitHub Trophies
+○ Build More Real-World Projects
 
-<p align="center">
+○ Learn Full Stack Development
 
-<img src="https://github-profile-trophy.vercel.app/?username=chaithrachailingaraj-arch&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-
-</p>
-
----
-
-<!-- ===================== LEARNING ===================== -->
-
-# 🌱 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-Currently%20Learning-blue?style=for-the-badge&logo=python" />
-
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-success?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Web%20Development-Frontend-orange?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/AI%20Tools-Exploring-purple?style=for-the-badge" />
-
-</p>
+○ Explore Artificial Intelligence
+```
 
 ---
 
-<!-- ===================== SNAKE ===================== -->
+# 📊 GitHub Stats
 
-# 🐍 Watch My Contributions Get Eaten!
+<div align="center">
 
-<p align="center">
 
-![Snake animation](https://raw.githubusercontent.com/chaithrachailingaraj-arch/chaithrachailingaraj-arch/output/github-contribution-grid-snake.svg)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithrachailingaraj-arch&theme=transparent&hide_border=true"/>
 
-</p>
 
----
+</div>
 
-<!-- ===================== QUOTE ===================== -->
+<br/>
 
-# 💭 Developer Quote
-
-<p align="center">
-
-> **"Success doesn't come from what you do occasionally. It comes from what you do consistently." 🚀**
-
-</p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+# 💬 Ask Me About
 
-<p align="center">
+<div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://img.shields.io/badge/Web%20Development-7C3AED?style=for-the-badge"/>
 
-### 🚀 Let's Learn • Build • Innovate Together!
+<img src="https://img.shields.io/badge/Python-06B6D4?style=for-the-badge&logo=python&logoColor=white"/>
 
-<br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+---
 
-</p>
+# 🌍 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/chaithra">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/lingarajurathnamma">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:chaithrachailingaraj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭
+
+> **"Still learning. Still building. Still becoming."**
+
+<br/>
+
+```python
+while learning:
+    practice()
+    build()
+    improve()
+```
+
+<br/>
+
+### ✨ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=140&section=footer"/>
+
+</div>
