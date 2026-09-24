@@ -93,17 +93,6 @@ My personal portfolio website showcasing my projects and learning journey.
 </table>
 
 </div>
-
-
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithrachailingaraj-arch&theme=transparent&hide_border=true"/>
-
-
 </div>
 
 <br/>
