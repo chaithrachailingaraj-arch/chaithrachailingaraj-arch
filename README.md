@@ -26,20 +26,6 @@
 
 </div>
 
-
-## ⚡ Current Focus
-
-<div align="center">
-
-| 🔭 Currently Working On | 🌱 Currently Learning | 👯 Looking to Collaborate |
-|---|---|---|
-| Python Projects 🐍 | Python with DSA 🧩 | Python Projects 🐍 |
-| Portfolio Projects 🌐 | Web Development | Learning by Building 🚀 |
-
-</div>
-
----
-
 # 🛠️ Languages and Tools
 
 <div align="center">
