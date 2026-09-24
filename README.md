@@ -26,32 +26,6 @@
 
 </div>
 
----
-
-## 👋 About Me
-
-```javascript
-const chaithra = {
-    location: "India 🇮🇳",
-    
-    role: "Aspiring Full Stack Developer",
-    
-    currentlyLearning: [
-        "Python 🐍",
-        "Data Structures & Algorithms 🧩",
-        "Web Development 🌐"
-    ],
-    
-    exploring: [
-        "Artificial Intelligence 🤖",
-        "AI Tools ⚡"
-    ],
-    
-    mindset: "Learn something new every day 🚀"
-};
-```
-
----
 
 ## ⚡ Current Focus
 
@@ -134,31 +108,7 @@ My personal portfolio website showcasing my projects and learning journey.
 
 </div>
 
----
 
-# 🎯 Learning Goals
-
-```text
-☑ Learn Python Fundamentals
-
-☑ Build Simple Python Projects
-
-☑ Learn Git & GitHub
-
-◉ Practice Data Structures & Algorithms
-
-◉ Improve Web Development Skills
-
-○ Learn Advanced Python
-
-○ Build More Real-World Projects
-
-○ Learn Full Stack Development
-
-○ Explore Artificial Intelligence
-```
-
----
 
 # 📊 GitHub Stats
 
