@@ -108,21 +108,6 @@ My personal portfolio website showcasing my projects and learning journey.
 
 <br/>
 
-
----
-
-# 💬 Ask Me About
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Web%20Development-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-06B6D4?style=for-the-badge&logo=python&logoColor=white"/>
-
-</div>
-
----
-
 # 🌍 Let's Connect
 
 <div align="center">
